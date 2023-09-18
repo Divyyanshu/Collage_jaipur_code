@@ -1,0 +1,23 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+body{
+    margin: 20px;
+}
+div{
+    border:1px solid red;
+    /* margin: 1px 5px 20px 2px;
+    top | right | bottom | left */
+    /* margin: 5px 8px 10px;
+    top | left+right | bottom */
+    /* margin: 5px 10px;
+    top+bottom | right+left */
+    /* margin: 20px;
+    top+bottom+right+left */
+    margin-bottom: 20px;
+    padding: 10px;
+}
+p{
+    text-align: center;
+}

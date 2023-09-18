@@ -1,0 +1,7 @@
+#master{
+    display:flex;
+    flex-wrap: wrap;
+}
+.image{
+    width:30%;
+}
